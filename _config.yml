@@ -1,0 +1,28 @@
+name: cayase
+favicon: null
+layout_spectrum: 0.2544474524911493
+typography_spectrum: 0.7778118357528001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8312928124796599
+  lightness: 0.25673940661363304
+  saturation: 0.05484425579197705
+  rhythmicContrast: 0.8374232950154692
+purpose: []
